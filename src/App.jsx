@@ -2,9 +2,11 @@ import { useState } from "react";
 
 function App() {
 	return (
-		<div className="App">
-			<h1>Hello World!</h1>
-		</div>
+		<main>
+			<h1>Quizzical!</h1>
+			<p>A short and simple trivia game</p>
+			<button>Begin</button>
+		</main>
 	);
 }
 
